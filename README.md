@@ -32,13 +32,13 @@ A simple React.js application that provides a dynamic search bar to find food it
    
 
 ## sceeen short of the search bar
-![alt text](../food-menu/src/assets/search_bar.png)   
+![alt text](https://raw.githubusercontent.com/vasim-a/food-menu/main/src/assets/search_bar.png)   
 
 ## sceeen short of the results of the search
-![alt text](../food-menu/src/assets/result.png)
+![alt text](https://raw.githubusercontent.com/vasim-a/food-menu/main/src/assets/result.png)
 
 ## sceeen short of the results not found in the search
-![alt text](../food-menu/src/assets/result%20not%20found.png)
+![alt text](https://raw.githubusercontent.com/vasim-a/food-menu/main/src/assets/result%20not%20found.png)
 
 ## sceeen short of the results of searching through the id
-![alt text](../food-menu/src/assets/idsearch.png)
+![alt text](https://raw.githubusercontent.com/vasim-a/food-menu/main/src/assets/idsearch.png)
