@@ -1,0 +1,87 @@
+.search-bar {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.btn:hover {
+  color: #fff;
+}
+
+.input-text:focus {
+  box-shadow: 0px 0px 0px;
+  border-color: #f8c146;
+  outline: 0px;
+}
+
+.form-control {
+  border: 1px solid #f8c146;
+}
+
+.input-group {
+  width: 34rem !important;
+}
+
+/*  card css */
+
+.cardStyle {
+  width: 100%;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  background-color: #eee;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 3 equal-width columns */
+  gap: 1rem;
+  padding: 1rem;
+}
+.imagstyle {
+  width: 15rem;
+  margin-top: 0.5rem;
+  border-radius: 1rem;
+}
+
+.desStyle {
+  font-family: "Inter";
+  margin-top: 0.2rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+.mealCard {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-top: 2rem;
+}
+
+h3 {
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+img {
+  border-radius: 5px;
+  margin-bottom: 10px; /* Space below the image */
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
